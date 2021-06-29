@@ -2,7 +2,7 @@ from collections import deque
 import numpy as np
 import argparse
 import imutils
-import cv as cv
+import cv2 as cv
 import urllib 
 
 smaller = {'red':(166, 84, 141), 'green':(66, 122, 129), 'blue':(97, 100, 117), 'yellow':(23, 59, 119), 'orange':(0, 50, 80), 'brown':(1,42,170), 'pink':(85, 24, 94), 'purple':(94, 24, 72), 'white': (181, 173, 184), 'black': (0,0,0)} 
