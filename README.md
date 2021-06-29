@@ -1,6 +1,6 @@
 # OpenCV-real-time-color-detection
 
-To run this project install numpy, OpenCV, imutils
+To run this project install numpy, pandas, OpenCV, imutils
 
 ## Real-time color tracking through webcam 
 
@@ -9,4 +9,4 @@ To run this project install numpy, OpenCV, imutils
 
 ## Color detection in every part of an image by moving the cursor across it 
 
-* run python webcamcolordetector.py
+* run python imagecolordetector.py
